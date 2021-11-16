@@ -1,0 +1,46 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  
+  .center-container {
+    text-align: center;
+    /* border: 1px solid pink; */
+  }
+  
+  #icons {
+    padding-right: 10%;
+    font-size: 30px;
+    /* border: 1px solid pink; */
+  }
+  
+  .mini {
+    font-size: 30px;
+    display: inline-block;
+    /* border: 1px solid pink; */
+    padding-left: 2%;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
+  }
+  
+  p {
+    /* width: 45%; */
+    font-size: 20px;
+  }
+  
+  h6 {
+    text-align: center;
+    /* border: 1px solid pink; */
+  }
+
+  hr {
+    visibility: hidden;
+  }
+
+  a {
+      font-size: 20px;
+  }
